@@ -1,3 +1,5 @@
+"use client";
+
 import ContactCard from "@/app/components/ContactCard";
 import styles from "./contact.module.css";
 import ContactForm from "@/app/components/ContactForm";
